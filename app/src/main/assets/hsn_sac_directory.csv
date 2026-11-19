@@ -1,0 +1,65 @@
+hsn_code,description,default_tax_rate_bps,is_service
+0401,Fresh Milk & Pasteurized Dairy (Unbranded),0,false
+0402,Skimmed Milk Powder & Condensed Dairy,500,false
+0405,Butter & Pure Cow Ghee,1200,false
+0713,Dried Leguminous Pulses & Dal (Branded Pack),500,false
+0901,Roasted Coffee Beans & Instant Coffee Powder,500,false
+0902,Assam & Darjeeling Packaged Tea Leaves,500,false
+0910,Turmeric, Ginger, Curry Powder & Blended Spices,500,false
+1001,Whole Wheat & Chakki Atta (Branded Pack),500,false
+1006,Basmati & Non-Basmati Rice (Packaged),500,false
+1101,Wheat Flour, Maida & Sooji (Packaged),500,false
+1512,Sunflower, Mustard & Groundnut Edible Oil,500,false
+1701,Refined Cane Sugar & JaggeryCubes,500,false
+1704,Sugar Confectionery & Chocolates,1800,false
+1905,Biscuits, Bakery Pastries & Namkeen Snacks,1800,false
+2106,Namkeen, Bhujia, Sharbat & Food Preparations,1200,false
+2202,Aerated Beverages & Carbonated Soft Drinks (28% + 12% Cess),2800,false
+2402,Tobacco & Pan Masala Products (Peak 40% Slab),4000,false
+2523,Portland Cement & Construction Grey Cement,2800,false
+2710,Lubricating Engine Oils & Industrial Greases,1800,false
+3004,Medicaments, Allopathic & Ayurvedic Formulations,1200,false
+3006,Surgical Dressings & First-Aid Kits,1200,false
+3208,Paints, Varnishes & Wall Enamels,1800,false
+3304,Cosmetics, Skin Care & Beauty Preparations,1800,false
+3305,Hair Oils, Shampoos & Hair Care Products,1800,false
+3401,Bath Soaps, Detergents & Washing Bars,1800,false
+3402,Liquid Dishwash & Laundry Detergent Powders,1800,false
+3808,Household Disinfectants, Phenyl & Mosquito Repellents,1800,false
+3923,Plastic Containers, Bottles, Crates & Packaging,1800,false
+4011,New Pneumatic Rubber Tyres for Two-Wheelers & Cars,2800,false
+4819,Corrugated Cardboard Cartons & Packing Boxes,1800,false
+4820,Exercise Notebooks, Registers & Account Books,1200,false
+5208,Woven Cotton Fabrics & Textile Rolls,500,false
+6109,Cotton T-Shirts & Knitted Innerwear,500,false
+6203,Men's Readymade Garments, Trousers & Shirts (Above ₹1000),1200,false
+6204,Women's Sarees, Kurtis & Readymade Apparel,1200,false
+6403,Footwear, Leather Shoes & Sandals,1200,false
+6907,Ceramic & Vitrified Floor and Wall Tiles,1800,false
+7102,Rough & Cut Industrial Diamonds (0.25% Slab),25,false
+7113,Gold, Silver & Platinum Bullion / Ornaments (3% Slab),300,false
+7308,Iron & Steel Rods, Angles & Structural Hardware,1800,false
+7318,Screws, Bolts, Nuts, Washers & Fasteners,1800,false
+7323,Stainless Steel Kitchen Utensils & Cookware,1200,false
+8205,Hand Tools, Spanners, Pliers & Hammers,1800,false
+8414,Ceiling Fans, Exhaust Fans & Air Compressors,1800,false
+8415,Split & Window Air Conditioners,2800,false
+8418,Commercial Refrigerators & Deep Freezers,1800,false
+8471,Computers, Laptops, POS Printers & Barcode Scanners,1800,false
+8504,UPS Inverters, Transformers & Mobile Chargers,1800,false
+8507,Lead-Acid & Lithium-Ion Inverter Batteries,2800,false
+8517,Smartphones, Feature Phones & Wi-Fi Routers,1800,false
+8528,LED Televisions & Commercial Monitors,1800,false
+8536,Electrical Switches, Sockets, MCBs & Switchgear,1800,false
+8539,LED Bulbs, Tube Lights & Batten Fittings,1200,false
+8544,Insulated Copper Electrical Wires & Cables,1800,false
+8708,Two-Wheeler & Four-Wheeler Auto Spare Parts,2800,false
+9403,Wooden & Modular Office/Shop Furniture,1800,false
+9608,Ballpoint Pens, Gel Pens & Office Markers,1800,false
+9954,Construction, Interior & Civil Contracting Services (SAC),1800,true
+9965,Road Freight & Goods Transport Agency (GTA) Services (SAC),500,true
+9972,Commercial Shop Renting & Real Estate Services (SAC),1800,true
+9982,Legal, Chartered Accounting & GST Filing Services (SAC),1800,true
+9983,IT Software, Web Design & Consultancy Services (SAC),1800,true
+9985,Security, Housekeeping & Manpower Supply Services (SAC),1800,true
+9987,Repair, AMC & Maintenance of Electronics/Machinery (SAC),1800,true

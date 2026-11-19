@@ -1,0 +1,6 @@
+{
+  "name": "Vanijya",
+  "description": "Offline-first Indian business management, accounting, GST invoicing, inventory, and staff payroll app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

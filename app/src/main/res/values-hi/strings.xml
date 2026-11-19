@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">वाणिज्य (Vanijya)</string>
+    <string name="app_tagline">आपका व्यापार, आपकी जेब में। 100% ऑफलाइन।</string>
+    <string name="badge_offline_encrypted">100% ऑफलाइन • AES-256 सुरक्षित</string>
+
+    <!-- Onboarding & Welcome -->
+    <string name="welcome_headline">स्मार्ट जीएसटी बिलिंग, स्टॉक, खाता और स्टाफ पेरोल</string>
+    <string name="welcome_subtitle">एक मिनट में अपना सुरक्षित व्यापार वॉल्ट सेट करें, या अपनी .vbk बैकअप फ़ाइल से सारा डेटा रीस्टोर करें।</string>
+    <string name="welcome_setup_new_business">नया व्यापार सेट करें (Set up new business)</string>
+    <string name="welcome_restore_from_backup">बैकअप से रीस्टोर करें (Restore from backup)</string>
+    <string name="welcome_offline_footer">पूरी तरह ऑफलाइन काम करता है। आपका डेटा आपके फ़ोन में रहता है।</string>
+    <string name="restore_screen_title">बैकअप से रीस्टोर करें (Restore from Backup)</string>
+    <string name="restore_screen_subtitle">अपनी एन्क्रिप्टेड .vbk बैकअप फ़ाइल चुनें और सभी खाते, बिल, स्टॉक और पेरोल ऑफलाइन रीस्टोर करें।</string>
+    <string name="restore_pick_file">.vbk बैकअप फ़ाइल चुनें</string>
+    <string name="restore_confirm_action">रीस्टोर करें और वाणिज्य खोलें</string>
+    <string name="onboarding_step_language">भाषा चुनें (Choose Language)</string>
+    <string name="onboarding_step_business">व्यापार प्रोफ़ाइल (Business Profile)</string>
+    <string name="onboarding_step_gst">जीएसटी और लेखा मोड (GST Mode)</string>
+    <string name="onboarding_step_security">ऐप लॉक और सुरक्षा (App Security)</string>
+    <string name="onboarding_continue">आगे बढ़ें (Continue)</string>
+    <string name="onboarding_back">पीछे (Back)</string>
+    <string name="onboarding_finish">वाणिज्य शुरू करें</string>
+
+    <!-- 5 Bottom Navigation Tabs: Dashboard, Billing, Parties, Staff, Stock -->
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_billing">बिलिंग</string>
+    <string name="nav_home">डैशबोर्ड</string>
+    <string name="nav_parties">पार्टियां</string>
+    <string name="nav_staff">स्टाफ</string>
+    <string name="nav_stock">स्टॉक</string>
+    <string name="nav_quick_add">सभी कार्य</string>
+    <string name="nav_items">आइटम</string>
+    <string name="nav_reports">रिपोर्ट्स</string>
+    <string name="nav_more">अधिक</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="action_back">वापस जाएं (Back)</string>
+    <string name="coming_soon_badge">जल्द आ रहा है (Coming Soon)</string>
+    <string name="coming_soon_subtitle">यह मॉड्यूल अगले चरण में आपके एन्क्रिप्टेड लोकल डेटाबेस से जुड़ेगा।</string>
+
+    <!-- Top Bar Avatar Dropdown / Sheet Actions -->
+    <string name="avatar_switch_firm">फ़र्म बदलें (Switch Firm)</string>
+    <string name="avatar_switch_user">यूज़र बदलें (Switch User)</string>
+    <string name="avatar_settings">सेटिंग्स (Settings)</string>
+    <string name="avatar_backup_restore">बैकअप और रीस्टोर (Backup and Restore)</string>
+    <string name="avatar_lock_now">ऐप अभी लॉक करें (Lock app now)</string>
+    <string name="avatar_help">सहायता (Help)</string>
+    <string name="avatar_about">ऐप के बारे में (About)</string>
+
+    <!-- Staff Tab (Today, Employees, Payroll, Advances) -->
+    <string name="staff_title">स्टाफ और पेरोल (Staff &amp; Payroll)</string>
+    <string name="staff_tab_today">आज (Today)</string>
+    <string name="staff_tab_employees">कर्मचारी (Employees)</string>
+    <string name="staff_tab_payroll">पेरोल (Payroll)</string>
+    <string name="staff_tab_advances">एडवांस (Advances)</string>
+    <string name="staff_status_present">उपस्थित (Present)</string>
+    <string name="staff_status_absent">अनुपस्थित (Absent)</string>
+    <string name="staff_status_half_day">आधा दिन (Half-day)</string>
+    <string name="staff_status_leave">छुट्टी (Leave)</string>
+    <string name="staff_status_late">देरी (Late)</string>
+    <string name="staff_mark_all_present">सभी को उपस्थित चिह्नित करें</string>
+    <string name="staff_add_employee">कर्मचारी जोड़ें</string>
+    <string name="staff_run_payroll">पेरोल चलाएं (Run payroll)</string>
+
+    <!-- More & All Features -->
+    <string name="more_sales">बिक्री (Sales)</string>
+    <string name="more_purchases">खरीद (Purchases)</string>
+    <string name="more_cash_bank">नकद और बैंक (Cash and Bank)</string>
+    <string name="more_expenses">खर्चे (Expenses)</string>
+    <string name="more_staff_payroll">स्टाफ और पेरोल (Staff and Payroll)</string>
+    <string name="more_gst">जीएसटी (GST)</string>
+    <string name="more_reports">रिपोर्ट्स (Reports)</string>
+    <string name="more_backup">बैकअप और रीस्टोर (Backup)</string>
+    <string name="more_settings">सेटिंग्स (Settings)</string>
+    <string name="feature_items_stock">आइटम और स्टॉक</string>
+    <string name="feature_day_book">डे बुक (Day Book)</string>
+    <string name="feature_import_export">इम्पोर्ट / एक्सपोर्ट</string>
+
+    <!-- Dashboard -->
+    <string name="switch_firm">फ़र्म बदलें (Switch Firm)</string>
+    <string name="total_cash">कुल नकद (Total Cash)</string>
+    <string name="total_bank_balance">कुल बैंक शेष (Total Bank)</string>
+    <string name="to_collect">लेने हैं (To Collect)</string>
+    <string name="to_pay">देने हैं (To Pay)</string>
+    <string name="remind_button">रिमाइंडर</string>
+    <string name="quick_sale">बिक्री (Sale)</string>
+    <string name="quick_purchase">खरीद (Purchase)</string>
+    <string name="quick_quotation">कोटेशन (Quotation)</string>
+    <string name="quick_more">अधिक (More)</string>
+    <string name="action_mark_attendance">उपस्थिति दर्ज करें</string>
+    <string name="stock_summary_title">स्टॉक सारांश (Stock Summary)</string>
+    <string name="stock_value_label">स्टॉक मूल्य</string>
+    <string name="stock_low_count_label">कम स्टॉक</string>
+    <string name="stock_expiring_count_label">एक्सपायरिंग</string>
+    <string name="all_actions_title">सभी कार्य (All Actions)</string>
+    <string name="all_features_title">सभी सुविधाएं (All Features)</string>
+    <string name="recent_activity_title">हाल की गतिविधि (Recent Activity)</string>
+    <string name="alerts_strip_title">व्यापार अलर्ट</string>
+
+    <string name="greeting_morning">सुप्रभात</string>
+    <string name="greeting_afternoon">नमस्ते</string>
+    <string name="greeting_evening">शुभ संध्या</string>
+    <string name="you_will_get">लेने हैं (To Collect)</string>
+    <string name="you_will_pay">देने हैं (To Pay)</string>
+    <string name="todays_sales">बिक्री (Sales)</string>
+    <string name="todays_purchases">खरीद (Purchases)</string>
+    <string name="todays_expenses">खर्च (Expenses)</string>
+    <string name="todays_profit">लाभ (Profit)</string>
+    <string name="cash_in_hand">कुल नकद (Total Cash)</string>
+    <string name="bank_balance">कुल बैंक शेष (Total Bank)</string>
+    <string name="sales_sparkline_title">7-दिन की बिक्री ग्राफ</string>
+    <string name="low_stock_alerts">कम स्टॉक</string>
+    <string name="overdue_invoices">बकाया बिल</string>
+    <string name="staff_attendance">आज की स्टाफ उपस्थिति</string>
+    <string name="recent_transactions">हाल की गतिविधि</string>
+    <string name="backup_health_title">ऑफलाइन वॉल्ट और बैकअप स्थिति</string>
+
+    <!-- Lock Screen -->
+    <string name="lock_title">वाणिज्य अनलॉक करें</string>
+    <string name="lock_subtitle">अपना 6-अंकीय पिन दर्ज करें या फिंगरप्रिंट का उपयोग करें</string>
+    <string name="unlock_biometric">फिंगरप्रिंट / बायोमेट्रिक का उपयोग करें</string>
+    <string name="pin_error_invalid">गलत 6-अंकीय पिन। कृपया पुनः प्रयास करें।</string>
+
+    <!-- Settings Screen Sections -->
+    <string name="settings_title">सेटिंग्स (Settings)</string>
+    <string name="settings_subtitle">थीम, भाषा, व्यापार प्रोफ़ाइल, बिलिंग, सुरक्षा और यूज़र प्रबंधित करें</string>
+    <string name="settings_sec_appearance">1. दिखावट और थीम (Appearance)</string>
+    <string name="settings_theme_system">सिस्टम</string>
+    <string name="settings_theme_light">लाइट</string>
+    <string name="settings_theme_dark">डार्क</string>
+    <string name="settings_theme_amoled">AMOLED</string>
+    <string name="settings_sec_language">2. भाषा (Language)</string>
+    <string name="settings_lang_english">English (अंग्रेज़ी)</string>
+    <string name="settings_lang_hindi">हिन्दी (Hindi)</string>
+    <string name="settings_sec_business_profile">3. व्यापार प्रोफ़ाइल (Business Profile)</string>
+    <string name="settings_save_business">प्रोफ़ाइल सहेजें (Save Profile)</string>
+    <string name="settings_sec_invoice">4. बिल और इनवॉइस सेटिंग्स (Invoice Settings)</string>
+    <string name="settings_save_invoice">इनवॉइस सेटिंग्स सहेजें</string>
+    <string name="settings_sec_numbers_format">5. संख्या और प्रारूप (Numbers &amp; Format)</string>
+    <string name="settings_rounding_nearest">निकटतम (Nearest)</string>
+    <string name="settings_rounding_up">ऊपर (Up)</string>
+    <string name="settings_rounding_down">नीचे (Down)</string>
+    <string name="settings_sec_security">6. सुरक्षा (Security)</string>
+    <string name="settings_change_pin">6-अंकीय पिन बदलें</string>
+    <string name="settings_sec_users_roles">7. यूज़र्स और भूमिकाएं (Users &amp; Roles)</string>
+    <string name="settings_add_user">नया लोकल यूज़र जोड़ें</string>
+    <string name="settings_sec_businesses">8. फ़र्म / व्यापार (Firms)</string>
+    <string name="settings_add_business">नई फ़र्म जोड़ें</string>
+    <string name="settings_sec_data">9. डेटा प्रबंधन (Data)</string>
+    <string name="settings_backup_restore">बैकअप और रीस्टोर (.vbk)</string>
+    <string name="settings_reset_app">ऐप रीसेट करें (Reset App)</string>
+    <string name="settings_sec_about">10. ऐप के बारे में (About)</string>
+    <string name="settings_works_offline">पूरी तरह ऑफलाइन काम करता है (Works fully offline)</string>
+    <string name="settings_privacy_note">100% लोकल गोपनीयता गारंटी: वाणिज्य में इंटरनेट अनुमति नहीं है। आपका सारा डेटा SQLCipher 256-bit AES द्वारा आपके फ़ोन में सुरक्षित रहता है।</string>
+</resources>
