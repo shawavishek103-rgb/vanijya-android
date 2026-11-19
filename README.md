@@ -122,7 +122,7 @@ vanijya-android/
 
 **Run the app**
 ```bash
-git clone https://github.com/<your-username>/vanijya-android.git
+git clone https://github.com/shawavishek103-rgb/vanijya-android.git
 cd vanijya-android
 ./gradlew assembleDebug
 ```
