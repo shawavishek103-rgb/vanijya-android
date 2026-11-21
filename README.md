@@ -36,7 +36,7 @@ When you change phones, you carry one backup file (`.vbk`) and restore everythin
 
 | Dashboard (Dark) | Dashboard (Light) | Create Invoice | Invoice PDF |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard Dark](docs/screenshots/dashboard-dark.png) | ![Dashboard Light](docs/screenshots/dashboard-light.png) | ![Create Invoice]docs/screenshots/invoice.png | ![Invoice PDF]docs/screenshots/pdf.png |
+| ![Dashboard Dark](docs/screenshots/dashboard-dark.png) | ![Dashboard Light](docs/screenshots/dashboard-light.png) | ![Create Invoice](docs/screenshots/invoice.png) | ![Invoice PDF](docs/screenshots/pdf.png) |
 
 ---
 
