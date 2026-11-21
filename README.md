@@ -34,11 +34,9 @@ When you change phones, you carry one backup file (`.vbk`) and restore everythin
 
 ## 📱 Screenshots
 
-> Add your screenshots to a `docs/screenshots` folder and update the paths below.
-
 | Dashboard (Dark) | Dashboard (Light) | Create Invoice | Invoice PDF |
 |:---:|:---:|:---:|:---:|
-| `docs/screenshots/dashboard-dark.png` | `docs/screenshots/dashboard-light.png` | `docs/screenshots/invoice.png` | `docs/screenshots/pdf.png` |
+| ![Dashboard Dark](docs/screenshots/dashboard-dark.png) | ![Dashboard Light](docs/screenshots/dashboard-light.png) | ![Create Invoice]docs/screenshots/invoice.png | ![Invoice PDF]docs/screenshots/pdf.png |
 
 ---
 
@@ -160,8 +158,8 @@ Then open the project in Android Studio and run it on an emulator or a real phon
 - [x] Foundation: theme, navigation, security, onboarding
 - [x] Parties and Items
 - [x] Itemised GST billing
-- [ ] Professional PDF invoices and templates
-- [ ] Purchases and stock valuation
+- [x] Professional PDF invoices and templates
+- [x] Purchases and stock valuation
 - [ ] Cash book, bank and expenses
 - [ ] Staff, attendance and payroll
 - [ ] GST reports, business reports and ITR pack
